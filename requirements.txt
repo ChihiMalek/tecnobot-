@@ -1,0 +1,15 @@
+streamlit
+ollama
+langchain
+langchain-community
+langchain-chroma
+langchain-ollama
+langchain-text-splitters
+chromadb
+sentence-transformers
+pypdf
+numpy
+pandas
+plotly
+requests
+rich
